@@ -12,7 +12,6 @@ window.onscroll = () => {
 };
 
 
-
 // loader
 
 fadeOut();
